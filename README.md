@@ -1,20 +1,19 @@
-# TristanPbty's Armor HUD
+## TristanPbty's Armor HUD v1.1.0
 
 A lightweight native armor HUD for Horizon.
 
-TristanPbty's Armor HUD is a native Horizon mod that displays the player's equipped armor pieces through a clean, minimal and lightweight interface.
-
-## Features
-- Minimal armor HUD.
+### Features
+- Minimal and clean armor HUD.
 - Displays equipped armor pieces.
-- Clean and lightweight interface.
-- Native Horizon implementation.
+- Lightweight native implementation.
+- Integrated library for standalone operation.
+- Simple and clean interface.
 
-## Requirements
-- Horizon Launcher.
-- TristanPbty's Lib.
+### Compatibility
+- Horizon 26.3
+- Native Rust implementation
 
-## Credits
-Created by **TristanPbty**.
+### Credits
+Created and maintained by TristanPbty.
 
-Inspired by Uku's Armor HUD.
+License: MIT.
