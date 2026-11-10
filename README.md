@@ -1,19 +1,38 @@
-## TristanPbty's Armor HUD v1.1.0
+# TristanPbty's Armor HUD
 
-A lightweight native armor HUD for Horizon.
+A minimal native armor HUD for Horizon.
 
-### Features
-- Minimal and clean armor HUD.
-- Displays equipped armor pieces.
-- Lightweight native implementation.
-- Integrated library for standalone operation.
-- Simple and clean interface.
+## Overview
 
-### Compatibility
-- Horizon 26.3
-- Native Rust implementation
+TristanPbty's Armor HUD displays your equipped armor in a clean, compact interface, allowing you to monitor your armor directly while playing.
 
-### Credits
-Created and maintained by TristanPbty.
+## Features
 
-License: MIT.
+- Minimal armor display
+- Clean and lightweight interface
+- Native Horizon implementation
+- Designed to integrate naturally into the game
+
+## Compatibility
+
+- **Platform:** Horizon
+- **Mod type:** Native mod
+- **Game version:** 26.3
+
+## Installation
+
+Install the `.hnmod` package through a compatible Horizon launcher.
+
+## Source code
+
+The complete source code is available in this repository.
+
+## Author
+
+**TristanPbty**
+
+- GitHub: https://github.com/TristanPbty
+
+## License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE).
